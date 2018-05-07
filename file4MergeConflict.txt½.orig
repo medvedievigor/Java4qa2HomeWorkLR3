@@ -1,7 +1,11 @@
 $ git push
 Counting objects: 3, done.
 Delta compression using up to 8 threads.
-Decompressing objects: 70% (0/2).
+<<<<<<< HEAD
+Compressing objects: 100% (2/2), don't
+=======
+Compressing objects: 100% (2/2), ???
+>>>>>>> 8800877d0c86ab1dc5ca760f2c70bdc0e901e0d5
 Writing objects: 100% (3/3), 331 bytes | 55.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/medvedievigor/Java4qa2HomeWorkLR3.git
